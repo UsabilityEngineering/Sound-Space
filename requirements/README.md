@@ -28,6 +28,8 @@ foo
 ### Caveats:
 foo
 
+Primarily rural college students, survey respondents primarily computer science majors, lack of artist data, need more behavioral data on how users discover music (does involve videos), 
+
 - Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
 
 ### Personas:

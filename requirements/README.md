@@ -6,8 +6,10 @@ The following report was created by [Christian Hodges](https://github.com/chodge
 ### Methods:
 - Survey: We chose to use a survey to get large sample data on music streaming and video user behavior 
 	- Consisted of 32 participants answering both quantiatiative and qualitative questions
+	- 
 - Studying Documentation: Performed studying documentation to get secondary research and overall data on users/problem space
 	- 
+
 - Contextual Enquirey: We chose to do a contextual inquiry to get qualitative data and understand the contexts where individuals listen to music and watch music videos
 	- 
 

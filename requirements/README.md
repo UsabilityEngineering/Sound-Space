@@ -4,12 +4,12 @@
 The following report was created by [Christian Hodges](https://github.com/chodges7) and [Sufiyan Syed](https://github.com/SufiyanSyedCSUC). Our project name and team name is Sound Space and this is our **Phase I: Requirements Gathering** report.
 
 ### Methods:
-- Survey:
-	- Foo
-- Studying Documentation:
-	- Foo
-- Contextual Enquirey:
-	- Foo
+- Survey: We chose to use a survey to get large sample data on music streaming and video user behavior 
+	- Consisted of 32 participants answering both quantiatiative and qualitative questions
+- Studying Documentation: Performed studying documentation to get secondary research and overall data on users/problem space
+	- 
+- Contextual Enquirey: We chose to do a contextual inquiry to get qualitative data and understand the contexts where individuals listen to music and watch music videos
+	- 
 
 - Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
 

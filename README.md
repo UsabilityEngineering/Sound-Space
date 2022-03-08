@@ -1,18 +1,16 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Sound Space
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project's vision!!!
+Sound Space is about breaking the barrier between a music streaming service and social media app. Sound Space is a platform to upload, stream, share and artistically compete using both music and associated visual content like visualizers, short clips, and full music videos. 
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Christian Hodges](https://github.com/UsabilityEngineering/ux-portfolio-chodges7)** - Usability Engineer
+* **[Sufiyan Syed](https://github.com/UsabilityEngineering/ux-portfolio-SufiyanSyedCSUC)** - Product Owner, Usability Engineer
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
+
 * [Personas and Scenarios](#) - Coming soon!
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!

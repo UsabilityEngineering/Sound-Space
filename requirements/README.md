@@ -20,18 +20,38 @@ The following report was created by [Christian Hodges](https://github.com/chodge
 		- <img src="./survey-graphs/1-age.png" width="500">
 		- Ages ranged from 19-47 with most observations ranging from 19 to 22
 	- "On average, how many hours do you stream/listen to music in a day?"
-		- For this question, our response ranged from 30 minutes to 12 hours in an average day. But most of the responses ranged from 4-5 hours long.
+		- For this question, our response ranged from 30 minutes to 12 hours in an average day. But most of the responses ranged from 4-5 hours long. (Avg. = 4.708, Med. = 3.75)
 	- "What are some places or situations where you usually stream music?"
 		- As expected from this type of question on a survey, each response to this question was unique to the person. Because of this here are some of the overarching places or situations where folks listened to music:
 			- Driving, doing homework, at the gym, cooking, traveling, showering, and cleaning
 	- "How frequently do you use the following applications for listening/streaming to music?"
 		- <img src="./survey-graphs/2-how-frequent-streaming.png" width="500">
 		- The graph created from this response shows us how popular each of the following apps are with our participants in regards to listening to music. This graph shows that TikTok, Apple Music, Tidal, SoundCloud, and Musi are not popular among our participants and conclusions that use those applications should be taken with a grain of salt.
-
-
-- For each method, describe:
-	- the users you collected data from (demographics and how they [mis]represent your user base) and
-	- summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you should include pictures with call-outs that point out both important features and flaws within the interface.
+	- "On a scale of 1-5, please answer the following questions about listening/streaming music:"
+		- <img src="./survey-graphs/3-questions-streaming.png" width="500">
+		- This graph shows that many of our participants stream music by themselves, at home, and at work and school. Though there is a little bit of a drop off for folks who listen with others as compared to the other rows in this question.
+	- "On average, how many hours do you watch music videos or clips in a day?"
+		- This was an interesting question because the lowest answer we got was 0 hrs while our biggest answer was 10 hours in a day. Though that answer is certainly an outlier and the majority of our answers were under or at an hour. (Avg. = 2.179, Med. = 1)
+	- "What are some places or situations where you usually watch music videos or clips?"
+		- There were some answers that were similar to the last question asking about what situations would one listen/stream music, but most of the answers became similar to, "while in bed" or "at home." Some interesting answers include, "when [I] know that there is a good music video to a song maybe i’ll go find that video" and "If an artist I like releases a music video to a song I enjoy." These two responses capture the feeling that Sound Space wants to emulate.
+	- "How Frequently to you use the following applications for interacting with videos linked to music (ex: Music Videos, Dance Challenges, AMVs, etc.)?"
+		- <img src="./survey-graphs/4-how-frequent-videos.png" width="500">
+		- This graph is intesting because it shows that folks who are looking to watch music videos will go to YouTube, Spotify, and TikTok instead of going to Apple Music, Tidal, SoundCloud, or Musi.
+	- "On a scale of 1-5, please answer the following questions about watching music videos/clips:"
+		- <img src="./survey-graphs/5-questions-videos.png" width="500">
+		- The use of this question was to see in what situations do folks watch music videos in comparison to just listening/streaming music. I think what we can gather from this chart is that folks are more likely to interact with music videos when they are alone, in small groups, and in places that are familer like home. 
+	- "On a 4 point scale, do you prefer watching music videos or streaming music?"
+		- <img src="./survey-graphs/6-prefer-videos-or-streaming.png" width="500">
+		- The focus of this question was to get a gauge on how much users would prefer listening to music versus watching music videos. 1 in this graph is watching videos and 4 is streaming music. This question isn't the greatest in retrospect because there is a lot let barrier to entry when listening/streaming music and therefore it will be easier and more likable in general scenarios. Though, we can still gleam from this question that there is a sub-set of people who like watching music videos.
+	- "On a scale from 1 to 5, how often do you leave comments on videos linked to music (ex: Music Videos, TikTok challenges/dances, AMVs, etc.)?"
+		- <img src="./survey-graphs/7-leave-comments.png" width="500">
+		- !!TODO
+	- "On a scale of 1-4, do you agree with the following statement: When I comment on musical content, the comments are generally positive."
+		- <img src="./survey-graphs/8-comments-generally-positive.png" width="500">
+		- !!TODO
+	- "How Frequently to you share musical content to your friends from each of these applications? Please answer n/a if you don't use the application."
+		- <img src="./survey-graphs/9-how-frequently-share.png" width="500">
+		- !!TODO
 
 ### Conclusions:
 foo

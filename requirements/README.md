@@ -45,16 +45,18 @@ The following report was created by [Christian Hodges](https://github.com/chodge
 		- The focus of this question was to get a gauge on how much users would prefer listening to music versus watching music videos. 1 in this graph is watching videos and 4 is streaming music. This question isn't the greatest in retrospect because there is a lot let barrier to entry when listening/streaming music and therefore it will be easier and more likable in general scenarios. Though, we can still gleam from this question that there is a sub-set of people who like watching music videos.
 	- "On a scale from 1 to 5, how often do you leave comments on videos linked to music (ex: Music Videos, TikTok challenges/dances, AMVs, etc.)?"
 		- <img src="./survey-graphs/7-leave-comments.png" width="500">
-		- !!TODO
+		- 1 for this chart = never, 5 for this chart = very often. This chart shows us that folks generally don't leave comments on videos so this means that we should have an option for comments, but we should not make it a very large portion of our UI since it is not important to the major userbase based off of this survey.
 	- "On a scale of 1-4, do you agree with the following statement: When I comment on musical content, the comments are generally positive."
 		- <img src="./survey-graphs/8-comments-generally-positive.png" width="500">
-		- !!TODO
+		- 1 for this chart = Stronly Disagree, 4 for this chart = Strongly Agree. This shows us that when users comment on posts it is probably because they liked it so much that they wanted to show their support for the piece of content.
 	- "How Frequently to you share musical content to your friends from each of these applications? Please answer n/a if you don't use the application."
 		- <img src="./survey-graphs/9-how-frequently-share.png" width="500">
-		- !!TODO
+		- This final chart shows us that when folks are using platforms like TikTok, YouTube, Spotify, and SoundCloud, they will probably have a piece of musical content during their use that they will share with friends. A caveat for this chart is that earlier we saw that not many of the participants in this survey used applications that weren't YouTube, Spotify, and TikTok. This means that data in the other sections could be skewed upward to have more weight, and the data for YouTube, Spotify, and TikTok might be skewed down since a lot more of the participants use those services.
 
 ### Conclusions:
-foo
+Some conclusions that we can gather from the survey section of this requirements gathering phase is that watching music videos is not the most popular this in regards to music since when we asked participants about wether they liked streaming music versus watching music videos we had a clear bias towards streaming. A new user story based on this conclusion would be that the general user would like an option to stream their music with their phone screen turned off since many situations where folks interact with music include doing other tasks like working out or cleaning.
+
+Another conclusion that we found from the survey would be that YouTube, Spotify, and TikTok are the most used applications that stream music and showcase music videos in our userbase. A user story for this conclusion is as follows: A user who uses YouTube, Spotify, and TikTok would appreciate a link to the music video on YouTube, a link to the song on Spotify, or a link to the tags used in the video on TikTok so that they can use those apps in conjunction with Sound Space.
 
 - Discoveries derived from the method(s). For example, explain a requirement (e.g. new user story based on a persona) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
 
@@ -62,7 +64,7 @@ foo
 The participants in our survey were primarily rural college students living in Chico, CA. The demographics of our survey’s respondents were also largely Computer Science majors. Since a large part of our application is about creating musical content, interest in this type of application could be skewed from the participants that we surveyed. Another limitation that we found in our gathering methods was that we did not ask a lot of questions about how folks discover new music that they would like/interact with.
 
 ### Personas:
-foo
+
 
 - Provide profiles of each of your user personas, which represent (potential) archetypes of users of your software
 

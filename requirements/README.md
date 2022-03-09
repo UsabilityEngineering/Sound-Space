@@ -64,7 +64,7 @@ The participants in our survey were primarily rural college students living in C
 ### Personas:
 <img src="./persona-pictures/jeremy-jones.jpeg" width="300">
 
-**Jeremy Jones (he/him)**
+### **Jeremy Jones (he/him)**
 
 Business Major at SDSU
 
@@ -74,13 +74,13 @@ Jeremy is a full-time student, but loves to get out and interact with lots of pe
 
 Jeremy doesn't usually watch music videos, but understands why they exist and appreciates some. He really appreciates music videos that have lots of meaning, metaphores, and avenues to analyze so that they can appreciate the music more.
 
-Goals:
+##### Goals:
 - Be alerted every time their favorite artist releases content
 - Be shown similar content to that new music when it's released (analyses, dances, remixes)
 
 <img src="./persona-pictures/ivory-williams.jpeg" width="300">
 
-**Ivory Williams (she/they)**
+### **Ivory Williams (she/they)**
 
 Kinesthesiology Major at CSU Chico
 
@@ -90,7 +90,7 @@ Ivory Williams is a part-time student on their final academic year in their bach
 
 In their free time they like to make TikToks using the current popular dances, but they usually follow up their dances with a stitch that explains why those dances are good for you. For example, the newest dance utilizes a move which is really great at stretching your ham-string.
 
-Goals:
+##### Goals:
 - Keep up to date on the newest dances
 - Create content that allows them to show off thier take on those dances
 - Stitch/Comment on those posts talking about them with a breakdown of the moves.

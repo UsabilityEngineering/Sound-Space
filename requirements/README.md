@@ -58,15 +58,42 @@ Some conclusions that we can gather from the survey section of this requirements
 
 Another conclusion that we found from the survey would be that YouTube, Spotify, and TikTok are the most used applications that stream music and showcase music videos in our userbase. A user story for this conclusion is as follows: A user who uses YouTube, Spotify, and TikTok would appreciate a link to the music video on YouTube, a link to the song on Spotify, or a link to the tags used in the video on TikTok so that they can use those apps in conjunction with Sound Space.
 
-- Discoveries derived from the method(s). For example, explain a requirement (e.g. new user story based on a persona) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
-
 ### Caveats:
 The participants in our survey were primarily rural college students living in Chico, CA. The demographics of our survey’s respondents were also largely Computer Science majors. Since a large part of our application is about creating musical content, interest in this type of application could be skewed from the participants that we surveyed. Another limitation that we found in our gathering methods was that we did not ask a lot of questions about how folks discover new music that they would like/interact with.
 
 ### Personas:
+<img src="./persona-pictures/jeremy-jones.jpeg" width="300">
 
+**Jeremy Jones (he/him)**
 
-- Provide profiles of each of your user personas, which represent (potential) archetypes of users of your software
+Business Major at SDSU
+
+In school for a B.A. of International Business, in their sophmore year
+
+Jeremy is a full-time student, but loves to get out and interact with lots of people around him. He chose international business as his major because he likes making new connections. Jeremy likes whenever their favorite artist, Frank Ocean, releases new music and will listen to the new album religiously for around two weeks.
+
+Jeremy doesn't usually watch music videos, but understands why they exist and appreciates some. He really appreciates music videos that have lots of meaning, metaphores, and avenues to analyze so that they can appreciate the music more.
+
+Goals:
+- Be alerted every time their favorite artist releases content
+- Be shown similar content to that new music when it's released (analyses, dances, remixes)
+
+<img src="./persona-pictures/ivory-williams.jpeg" width="300">
+
+**Ivory Williams (she/they)**
+
+Kinesthesiology Major at CSU Chico
+
+In school for a B.S. of Kinesthesiology, in thier final year
+
+Ivory Williams is a part-time student on their final academic year in their bachelor's degree at CSU Chico. They are very active, going to the gym 4 days a week while working out at thier own home 2 days a week. They look forward to using the skills they learned in their major to teach Zumba-like classes at a gym. 
+
+In their free time they like to make TikToks using the current popular dances, but they usually follow up their dances with a stitch that explains why those dances are good for you. For example, the newest dance utilizes a move which is really great at stretching your ham-string.
+
+Goals:
+- Keep up to date on the newest dances
+- Create content that allows them to show off thier take on those dances
+- Stitch/Comment on those posts talking about them with a breakdown of the moves.
 
 ### Scenarios:
 foo

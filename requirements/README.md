@@ -96,9 +96,9 @@ In their free time they like to make TikToks using the current popular dances, b
 - Stitch/Comment on those posts talking about them with a breakdown of the moves.
 
 ### Scenarios:
-foo
+**Ivory** is working out at the gym with their friend and decides to do some cardio workouts. They tell their friend, "we should check to see if there are any high-energy dances so we can dance and work out at the same time!" Their friend responds with, "we could record ourselves too and send it to our friends." 
 
-- Identify the primary scenarios for your software and for each, include a description that explains who (of your personas) and what they want to do. Each persona should be involved in at least one scenario.
+**Jeremy** just got back from class and wants to relax before starting on their homework for the day. When they sit down they check their phone and realize that there is a new remix for a Frank Ocean song by an artist they follow, Lil' Potato. They put on their headphones to not disturb their housemates and so that they can get the premium listening experience. After listening to the song they send it to all of their friends and write a lovely comment to Lil' Potato stating, "I love how you matched the key change in the bridge of the song to the beat drop. It was super sick and can't wait to hear more stuff you release!"
 
 ### Supplementary Materials:
 [PDF of Survey](./Sound-Space-Survey.pdf)

@@ -10,8 +10,6 @@ Sound Space is about breaking the barrier between a music streaming service and 
 * **[Sufiyan Syed](https://github.com/UsabilityEngineering/ux-portfolio-SufiyanSyedCSUC)** - Collaborated on the majority of the report, but wrote the findings for the Contexual Enquiery and Studying Documentation method.
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](./requirements/personas-and-scenarios.pdf)
 * [Wireframes](#) - Coming soon!

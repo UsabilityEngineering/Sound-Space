@@ -62,7 +62,7 @@ Another conclusion that we found from the survey would be that YouTube, Spotify,
 The participants in our survey were primarily rural college students living in Chico, CA. The demographics of our survey’s respondents were also largely Computer Science majors. Since a large part of our application is about creating musical content, interest in this type of application could be skewed from the participants that we surveyed. Another limitation that we found in our gathering methods was that we did not ask a lot of questions about how folks discover new music that they would like/interact with.
 
 ### Personas and Scenarios
-Here is a link to the [personas and scarios](./personas-and-scenarios.pdf) pdf
+Here is a link to the [personas and scarios](./personas-and-scenarios.pdf) pdf.
 
 ### Supplementary Materials:
 [PDF of Survey](./Sound-Space-Survey.pdf)

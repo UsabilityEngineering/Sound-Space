@@ -13,7 +13,7 @@ Sound Space is about breaking the barrier between a music streaming service and 
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](./requirements/personas-and-scenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 

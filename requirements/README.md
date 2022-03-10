@@ -61,44 +61,8 @@ Another conclusion that we found from the survey would be that YouTube, Spotify,
 ### Caveats:
 The participants in our survey were primarily rural college students living in Chico, CA. The demographics of our survey’s respondents were also largely Computer Science majors. Since a large part of our application is about creating musical content, interest in this type of application could be skewed from the participants that we surveyed. Another limitation that we found in our gathering methods was that we did not ask a lot of questions about how folks discover new music that they would like/interact with.
 
-### Personas:
-<img src="./persona-pictures/jeremy-jones.jpeg" width="300">
-
-### **Jeremy Jones (he/him)**
-
-Business Major at SDSU
-
-In school for a B.A. of International Business, in their sophmore year
-
-Jeremy is a full-time student, but loves to get out and interact with lots of people around him. He chose international business as his major because he likes making new connections. Jeremy likes whenever their favorite artist, Frank Ocean, releases new music and will listen to the new album religiously for around two weeks.
-
-Jeremy doesn't usually watch music videos, but understands why they exist and appreciates some. He really appreciates music videos that have lots of meaning, metaphores, and avenues to analyze so that they can appreciate the music more.
-
-##### Goals:
-- Be alerted every time their favorite artist releases content
-- Be shown similar content to that new music when it's released (analyses, dances, remixes)
-
-<img src="./persona-pictures/ivory-williams.jpeg" width="300">
-
-### **Ivory Williams (she/they)**
-
-Kinesthesiology Major at CSU Chico
-
-In school for a B.S. of Kinesthesiology, in thier final year
-
-Ivory Williams is a part-time student on their final academic year in their bachelor's degree at CSU Chico. They are very active, going to the gym 4 days a week while working out at thier own home 2 days a week. They look forward to using the skills they learned in their major to teach Zumba-like classes at a gym. 
-
-In their free time they like to make TikToks using the current popular dances, but they usually follow up their dances with a stitch that explains why those dances are good for you. For example, the newest dance utilizes a move which is really great at stretching your ham-string.
-
-##### Goals:
-- Keep up to date on the newest dances
-- Create content that allows them to show off thier take on those dances
-- Stitch/Comment on those posts talking about them with a breakdown of the moves.
-
-### Scenarios:
-**Ivory** is working out at the gym with their friend and decides to do some cardio workouts. They tell their friend, "we should check to see if there are any high-energy dances so we can dance and work out at the same time!" Their friend responds with, "we could record ourselves too and send it to our friends." 
-
-**Jeremy** just got back from class and wants to relax before starting on their homework for the day. When they sit down they check their phone and realize that there is a new remix for a Frank Ocean song by an artist they follow, Lil' Potato. They put on their headphones to not disturb their housemates and so that they can get the premium listening experience. After listening to the song they send it to all of their friends and write a lovely comment to Lil' Potato stating, "I love how you matched the key change in the bridge of the song to the beat drop. It was super sick and can't wait to hear more stuff you release!"
+### Personas and Scenarios
+Here is a link to the [personas and scarios](./personas-and-scenarios.pdf) pdf
 
 ### Supplementary Materials:
 [PDF of Survey](./Sound-Space-Survey.pdf)

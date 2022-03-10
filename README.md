@@ -1,4 +1,6 @@
-# Sound Space
+# Sound Space 
+
+[View on GitHub Pages](https://usabilityengineering.github.io/Sound-Space/)
 
 Sound Space is about breaking the barrier between a music streaming service and social media app. Sound Space is a platform to upload, stream, share and artistically compete using both music and associated visual content like visualizers, short clips, and full music videos. 
 

@@ -6,8 +6,8 @@ Sound Space is about breaking the barrier between a music streaming service and 
 
 ## UX Team Members
 
-* **[Christian Hodges](https://github.com/UsabilityEngineering/ux-portfolio-chodges7)** - Usability Engineer
-* **[Sufiyan Syed](https://github.com/UsabilityEngineering/ux-portfolio-SufiyanSyedCSUC)** - Product Owner, Usability Engineer
+* **[Christian Hodges](https://usabilityengineering.github.io/ux-portfolio-chodges7/)** - Collaborated on the majority of the report, but wrote the findings on Survey
+* **[Sufiyan Syed](https://github.com/UsabilityEngineering/ux-portfolio-SufiyanSyedCSUC)** - Collaborated on the majority of the report, but wrote the findings for the Contexual Enquiery and Studying Documentation method.
 
 # User-Centered Design Artifacts
  

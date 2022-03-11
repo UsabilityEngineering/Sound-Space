@@ -130,7 +130,7 @@ The participants in our survey were primarily rural college students living in C
 For our contextual inquiry we made several assumptions that limit the significance of our study. First when we were observing individuals listening to music, we made the assumption that them having earbuds, earphones, or headphones meant that they were listening to music. Furthermore, individuals perhaps on a phone call or listening to a podcast would skew the data. In addition we measured screen attention simply by seeing if an individual was paying attention to a screen. Whether or not the user was texting, watching youtube, or reading a news article, was not recorded and that could skew the significance of the data as it unknown how individuals would behave specifically to watching music videos while listening to music. In addition, in our observations in the library, zoom and video/auditory assignments were commonly being done which could also skew the significance of the results. 
 
 ### Personas and Scenarios
-Here is a link to the [personas and scarios](./personas-and-scenarios.pdf) pdf.
+Here is a link to the [personas and scenarios](./personas-and-scenarios2.pdf) pdf.
 
 ### Supplementary Materials:
 [PDF of Survey](./Sound-Space-Survey.pdf)

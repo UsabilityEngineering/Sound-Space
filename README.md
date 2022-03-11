@@ -11,7 +11,7 @@ Sound Space is about breaking the barrier between a music streaming service and 
 
 # User-Centered Design Artifacts
 
-* [Personas and Scenarios](./requirements/personas-and-scenarios.pdf)
+* [Personas and Scenarios](./requirements/personas-and-scenarios2.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 

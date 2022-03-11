@@ -105,11 +105,11 @@ In terms of music discovery and sharing, tiktok and spotify were commonly used t
 ### Conclusions:
 
 Based on the findings of studying documentation, we formed the following conclusions. 
-	- tiktok UI’s infinite vertical scroll bar is essential to a convenient and easy experience as an audio-visual app. 
-	- Social media integration and engagement with the artist is a need of streaming services 
-	- Artists need creative ways to get exposure 
-	- Addressing needs and pains of youtube music is necessary as 2 billion individuals visit youtube each month to consume music related conent
-	- Soundpace should promote music discovery as current methods are ineffective and inefficient
+- tiktok UI’s infinite vertical scroll bar is essential to a convenient and easy experience as an audio-visual app. 
+- Social media integration and engagement with the artist is a need of streaming services 
+- Artists need creative ways to get exposure 
+- Addressing needs and pains of youtube music is necessary as 2 billion individuals visit youtube each month to consume music related conent
+- Soundpace should promote music discovery as current methods are ineffective and inefficient
 
 Some conclusions that we can gather from the survey section of this requirements gathering phase is that watching music videos is not the most popular this in regards to music since when we asked participants about wether they liked streaming music versus watching music videos we had a clear bias towards streaming. A new user story based on this conclusion would be that the general user would like an option to stream their music with their phone screen turned off since many situations where folks interact with music include doing other tasks like working out or cleaning.
 

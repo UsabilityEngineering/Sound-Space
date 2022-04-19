@@ -1,7 +1,24 @@
 # Interaction Design
 
 ## Stream 
+
+To begin, the page serving as the central focus to our app is shown bellow and always appears when a user first logs into their account. 
+
 <img src="../design/artboards/Stream Page Idea 1.png" width="400">
+
+The layout and components of this page follows 
+- Navigation tabs on the top right 
+- Search Bar 
+- Currently Playing/Recently played 
+- Vertical Song Playlist 
+- Horizontal Video Playlist 
+- Autoplay 
+- Playback Controls 
+- Social Interactions 
+- Artist info and engagement interactions 
+- Comments
+
+
 
 <img src="../design/artboards/Stream Page Idea 1 – 1.png" width="400">
 

@@ -42,10 +42,15 @@ Conclusions:
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In this phase of the project, we started designing what we would belive would be a good design for the Soundspace product. In this we created a Adobe XD project with multiple artboards, a canvas in Adobe XD's workspace, that have what we believe are good layouts for each of the pages for Soundspace.
+
+- One can see the artboards we created [here](./design/SoundSpace%20Wireframes%20.pdf) or in a link in our [User centered design artifacts](https://github.com/UsabilityEngineering/Sound-Space#user-centered-design-artifacts) section.
+- One can also see the simple prototype we create with those artboards [here](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off). or in the [User centered design artifacts](https://github.com/UsabilityEngineering/Sound-Space#user-centered-design-artifacts) section.
+
+We also recieved some feedback from our prototype during one of our in-class labs. We recieved feedback based on [Nielson's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). We recieved generally good feedback from those who evaluated our prototype with some of the following notes:
+- Our weakest heuristic was "Help and Documentation" because there was no way for a user to get help if they got confused.
+- A heuristic to work on was "Aesthetic and Minimalist Design." The feedback we recieved in this area is that the design of our layout was busy in some areas.
+- The rest of the heuristics we did fairly well on based on the feedback we recieved in the lab.
 
 [Full phase 2 report](design/)
 

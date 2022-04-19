@@ -13,7 +13,7 @@ Sound Space is about breaking the barrier between a music streaming service and 
 
 * [Personas and Scenarios](./requirements/personas-and-scenarios2.pdf)
 * [Wireframes](#) - Coming soon!
-* [Prototype](#) - Coming soon!
+* [Prototype](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off)
 
 # Phase 1: Requirements Gathering
 

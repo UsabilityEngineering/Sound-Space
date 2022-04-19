@@ -1,10 +1,18 @@
 # Interaction Design
 
-* Stream 
+## Stream 
 
-* Profile 
 
-* Upload 
 
-* Discover/Trending 
+## Profile 
+
+
+
+## Upload 
+
+
+
+## Discover/Trending 
+
+
 

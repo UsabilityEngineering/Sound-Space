@@ -51,3 +51,8 @@ Finally, we have the Discover and Trending page which can be navigated to by cli
 This page is focused on showing our users a variety of videos based on a filter they are searching under. For the purpose of our wireframe, a simple example of our website, we used music genres as a base filter. The first image above shows how the page would look once someone arrives at the page. The next picture is showing what the screen would look like if the user clicked the "Pop" filter. These two images together shows the interaction we want for this page.
 
 We expect [personas](../requirements/personas-and-scenarios2.pdf) like Steven Williams to use this page often so that they can find interesting content on the go. Personas like Jeremy Jones might not use this page as much since they are looking for content that is extremely specific.
+
+# Supplementary materials
+
+* [Wireframes](./design/SoundSpace%20Wireframes%20.pdf)
+* [Prototype](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off)

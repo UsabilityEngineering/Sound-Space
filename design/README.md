@@ -2,22 +2,36 @@
 
 ## Stream 
 
-To begin, the page serving as the central focus to our app is shown bellow and always appears when a user first logs into their account. 
+Based on our data collected from our research, we established three main insights to structure our wireframe design. We focused our design efforts on incorporating design features that 
+
+* Accommodate passive use 
+
+In our applications competitive market we found that applications that were designed to allow use whenever and wherever resulted in increased usability. Examples of this include interfaces that allow the user to stream content directly upon opening the application like Tiktok and having favorited or recently played content on the home screen of the app like Spotify. This trend is largely found to accommodate short attention spans of users and passive use. 
+
+Based on our survey investigating situations where music is streamed, we found common answers of which included “traveling, working, and cleaning”, that indicated a trend for passive use when listening to music. Additionally, our ethnographic observations of music consumers traveling between destinations and working individually as well as socially; found that users stream content in a passive manner.
+
+Contrary to this, our survey investigating situations where music videos are consumed, we found common answers of which included “At Home, Relaxing, and with friends”, that indicated a trend for active use. This is further supported by our ethnographic observations of visual content consumption in a coffee shop. 
+
+Since our project aims to include both music streaming and associated visual content, we decided it was important to note the differences in how both these types of media are consumed for our designs. 
+
+* Promote sharing and discovery between users 
+
+In our applications competitive market we found that users of soundspace’s competitors value social media as a way to engage with others regarding music and were frustrated with the separation between social media and the music sharing experience. This aligns with the common trend that music consumers discover music in a fragmented way, typically through social media or word of mouth. Our data collected from our contextual inquiry supports this as interviewees described discovering music through recommendations from friends and family; and through personal interests. 
+
+Based on our survey data we found that apps most used to share music or music related content included Tiktok, Youtube, Spotify, and SoundCloud. To influence our design we understood that designs common among these applications should be included in Soundspace including the location of commenting, liking, messaging, following, and hashtag features. 
+
+* Promote engagement between artists and consumers 
+
+In our applications competitive market, we found that users of soundspace’s competitors find listening to music a personal experience that connects them with artists, while artists find these platforms to build identity, collaborate with other artists, and gain exposure among consumers. Particularly messaging and commenting was found to be a critical feature for artist collaboration and connecting to fans. 
+
+Our survey results found that music video consumers rarely leave comments on videos so finding ways to increase commenting was explored when creating our wireframes. 
+
+Additionally Interviewee responses from our contextual inquiry, noted the use of social media and visual media to market and promote music and designing soundspace for the perspective of a content creator was considered 
+
+
+To begin, the page serving as the central focus to our app is shown below and always appears when a user first logs into their account.
 
 <img src="../design/artboards/Stream Page Idea 1.png" width="400">
-
-The layout and components of this page follows 
-- Navigation tabs on the top right 
-- Search Bar 
-- Currently Playing/Recently played 
-- Vertical Song Playlist 
-- Horizontal Video Playlist 
-- Autoplay 
-- Playback Controls 
-- Social Interactions 
-- Artist info and engagement interactions 
-- Comments
-
 
 
 <img src="../design/artboards/Stream Page Idea 1 – 1.png" width="400">

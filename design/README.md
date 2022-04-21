@@ -30,31 +30,74 @@ To begin, the page serving as the central focus to our app is shown below and al
 
 ## Stream 
 
+To begin, the page serving as the central focus to our app is shown below and always appears when a user first logs into their account.
+
 <img src="../design/artboards/Stream Page Idea 1.png" width="400">
 
+The user is met with the browsing and video playback layout of the streaming page. On the left side, the user can browse songs by scrolling vertically while browsing the multiple videos for each song horizontally through the two arrow keys on each side of the page. In this wireframe each color corresponds to a song while multiple boxes with the same color refer to various videos for each song. The user can then use the scroll bar on the right to change the song and see videos for that song
 
 <img src="../design/artboards/Stream Page Idea 1 – 1.png" width="400">
+
+This design was chosen primarily to accommodate passive use as it allows the user to visually browse both songs and videos and can be easily left playing in the background while the user’s attention span is limited. This layout also allows the user to use the app actively, similar to a traditional Youtube user experience. 
+
+On the right side of the screen is the playback box where visual content is shown. Within the video box itself are icons that allow the user to enable fullscreen, repeat, shuffle, skip, replay/rewind, and pause/play. Below the video box is a video progress bar and a list of hashtags associated with the video. Below this are sections that inform the user of the artist of the song and the visual creator. The user can easily see their profile statistics and follow or send a message to each of the creators. To the right of this is a comment box where users can browse, post and reply to comments. On the very top of the playback box is the video title, and interactions that allow the user to socially engage with the video. 
+
+This design was chosen to make engagement and sharing always accessible and easily apparent to the user. In this design the user can easily engage with artists and other consumers, share content, like and favorite newly discovered content to be viewed later. 
+
+Towards the top left side of the screen below the Soundspace logo is the search bar where users can search songs, artists, playlists, or hashtags to access content. To the right of the search bar is a feature that informs the user what is currently being played and their history of recently played songs to be replayed. These two features remain constant throughout the entire interface and user experience. 
+
+This design was chosen to not only allow the user freedom of the application, but also to allow the user to discover content and access favorite or previously watched content. No matter what page the user is on, they will always be able to search for content, see what they are currently playing and what they have played before. 
+
+On the very top of the page is a navigation bar that the user uses to navigate the different pages of the app. Starting from the far right, the four logos represent pages for uploading content, accessing the profile, browsing the trending page, and visiting the library while the Soundspace logo returns you to the stream home page. 
+
+In addition to the search bar and recently played feature, these navigation icons are constant throughout the app’s experience. This design was chosen for its simplicity and efficiency for navigating soundspace
+
+Lets visit the library page by clicking on the icon with the three books. 
 
 ## Profile 
 
 ### Liked
-<img src="../design/artboards/Profile Page idea 1 – 4.png" width="400">
+
+This shortcut takes the user to his/her profile page where all their related content is located. On this page specifically, the user can browse through their created and liked playlists. 
 
 <img src="../design/artboards/Profile Page idea 1 – 5.png" width="400">
 
+Lets visit the profile page by clicking on the person icon on the top of the screen. This page allows the user to toggle between viewing their liked songs and artists, in addition to accessing their liked or created playlist also accessible through the library icon. Additionally towards the top of the page is information about the profiles posts, followers, and who the user is following. 
+
+We chose this design to first inform the user of their profile statistics and also easily access content associated with their profile. We understood that the library icon directed you to the same page of the profile icon, but we wanted to give the user a faster way to access their frequently viewed content. 
+
+<img src="../design/artboards/Profile Page idea 1 – 4.png" width="400">
+
 <img src="../design/artboards/Profile Page idea 1 – 6.png" width="400">
+
+If you click to the right of the Liked tab we have the mentions feature
 
 ### Mentions 
 <img src="../design/artboards/Profile Page idea 1 – 2.png" width="400">
 
+This feature essentially informs the user whenever anyone interacts with their content on the platform, including posting a video to their song or commenting on one of their videos. The user then has the ability to approve or deny it being shown on the app. The artist also has the ability to message any of these individuals, access their profile, or follow them. The user can use the scroll bar on the left side of the screen to browse their past mentions and click on them to view them. 
+
+This was designed to promote artist engagement as it allows a content creator to control posts related to their content on soundspace. The design allows an efficient avenue for artists to engage with their followers as they could easily view a mention, message them, and access their profile all from the same page. 
+
+To the right of the mentions page is the messages page, lets click on that 
+
 ### Messages 
 <img src="../design/artboards/Profile Page idea 1 – 1.png" width="400">
 
+The messages page is dedicated to messaging and communication between users of soundpace. Similar to the mentions tab, the user can browse their past messages on the left hand side and click on each of them. The user can then read the message sent to them and reply and attach content to the message. The user can also access the profile of the sender and give them a follow. Furthermore the user can send a new message by clicking on the “New Message” icon on the top left of the page. 
+
+This wireframe was designed to promote sharing and discoverability. Users can message and collaborate with others on the app and reference other content of the profile tab to send in messages. The user can also easily access the message senders profile to view their content and profile to allow efficient collaboration between artists. 
+
+On the far left of the page is the upload tab
 
 ### Uploads 
 <img src="../design/artboards/Profile Page idea 1 – 3.png" width="400">
 
 <img src="../design/artboards/Profile Page idea 1.png" width="400">
+
+The upload tab is where the user can access their own uploaded content. On the very top is a slider which allows the user to toggle between videos and songs. Below this is an engagement tracker that allows the creator to track engagement with their content in real time. Particularly on the songs tab, the creator is able to see all the videos posted to their songs. 
+
+This tab of the profile page was designed to give artists feedback and analytics on the content they post to soundspace so they can market and grow their profile. We thought having this positioned right above the users uploaded content and within near access to other content in their profile would allow efficient usability for content creators. In addition, the ability toggle between uploaded songs and videos on the top of the page allows creators to further organize and understand engagement towards their content on the app. 
 
 ## Upload 
 

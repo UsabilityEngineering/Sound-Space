@@ -55,7 +55,13 @@ Based on our data collected from our research, we established three main insight
 
 Based on these insights, wireframes completed for this deliverable included included four main pages 
 * Stream 
+    * The primarily page of the app that allows users to stream, search for and interact with content. 
 * Profile 
+    * The page containing all information regarding the users profile with subsections Uploads, Liked, Mentions, and Messages 
+        * Uploads subsection allows users to view their uploaded content and their engagement analytics simultaneously
+        * Liked subsection reflects all user liked content, including created playlists 
+        * Mentions subsection notifies users when someone uses their profile or content in another post.
+        * Message subsection allows user to send new messages and track old ones.  
 * Discover 
 * Upload
 

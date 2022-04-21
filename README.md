@@ -56,6 +56,16 @@ We also recieved some feedback from our prototype during one of our in-class lab
 - A heuristic to work on was "Aesthetic and Minimalist Design." The feedback we recieved in this area is that the design of our layout was busy in some areas.
 - The rest of the heuristics we did fairly well on based on the feedback we recieved in the lab.
 
+Based on our data collected from our research, we established three main insights to structure our wireframe design. We focused our design efforts on incorporating design features that accommodate passive use, promote sharing and discovery between users, and promote engagement among artists and consumers. 
+
+Based on these insights, wireframes completed for this deliverable included included four main pages 
+* Stream 
+* Profile 
+* Discover 
+* Upload
+
+
+
 [Full phase 2 report](design/)
 
 # Phase 3: Usability Evaluation

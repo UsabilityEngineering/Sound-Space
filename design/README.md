@@ -52,6 +52,8 @@ On the very top of the page is a navigation bar that the user uses to navigate t
 
 In addition to the search bar and recently played feature, these navigation icons are constant throughout the app’s experience. This design was chosen for its simplicity and efficiency for navigating soundspace
 
+This wireframe for the stream page was intended for all our users but particularly for personas like Steven Williams and Jermey Jones who primarily consume content over uploading content. 
+
 Lets visit the library page by clicking on the icon with the three books. 
 
 ## Profile 
@@ -64,7 +66,7 @@ This shortcut takes the user to his/her profile page where all their related con
 
 Lets visit the profile page by clicking on the person icon on the top of the screen. This page allows the user to toggle between viewing their liked songs and artists, in addition to accessing their liked or created playlist also accessible through the library icon. Additionally towards the top of the page is information about the profiles posts, followers, and who the user is following. 
 
-We chose this design to first inform the user of their profile statistics and also easily access content associated with their profile. We understood that the library icon directed you to the same page of the profile icon, but we wanted to give the user a faster way to access their frequently viewed content. 
+We chose this design to first inform the user of their profile statistics and also easily access content associated with their profile. We understood that the library icon directed you to the same page of the profile icon, but we wanted to give the user a faster way to access their frequently viewed content. This aids personas like Steven Williams and Jermey Jones in swiftly acessing their favorite content. 
 
 <img src="../design/artboards/Profile Page idea 1 – 4.png" width="400">
 
@@ -77,7 +79,7 @@ If you click to the right of the Liked tab we have the mentions feature
 
 This feature essentially informs the user whenever anyone interacts with their content on the platform, including posting a video to their song or commenting on one of their videos. The user then has the ability to approve or deny it being shown on the app. The artist also has the ability to message any of these individuals, access their profile, or follow them. The user can use the scroll bar on the left side of the screen to browse their past mentions and click on them to view them. 
 
-This was designed to promote artist engagement as it allows a content creator to control posts related to their content on soundspace. The design allows an efficient avenue for artists to engage with their followers as they could easily view a mention, message them, and access their profile all from the same page. 
+This was designed to promote artist engagement as it allows a content creator to control posts related to their content on soundspace. The design allows an efficient avenue for artists and personas like Ivory Williams or Lil Potato to engage with their followers as they could easily view a mention, message them, and access their profile all from the same page.
 
 To the right of the mentions page is the messages page, lets click on that 
 
@@ -88,7 +90,7 @@ The messages page is dedicated to messaging and communication between users of s
 
 This wireframe was designed to promote sharing and discoverability. Users can message and collaborate with others on the app and reference other content of the profile tab to send in messages. The user can also easily access the message senders profile to view their content and profile to allow efficient collaboration between artists. 
 
-On the far left of the page is the upload tab
+On the far left of the page is the uploads tab
 
 ### Uploads 
 <img src="../design/artboards/Profile Page idea 1 – 3.png" width="400">
@@ -97,7 +99,7 @@ On the far left of the page is the upload tab
 
 The upload tab is where the user can access their own uploaded content. On the very top is a slider which allows the user to toggle between videos and songs. Below this is an engagement tracker that allows the creator to track engagement with their content in real time. Particularly on the songs tab, the creator is able to see all the videos posted to their songs. 
 
-This tab of the profile page was designed to give artists feedback and analytics on the content they post to soundspace so they can market and grow their profile. We thought having this positioned right above the users uploaded content and within near access to other content in their profile would allow efficient usability for content creators. In addition, the ability toggle between uploaded songs and videos on the top of the page allows creators to further organize and understand engagement towards their content on the app. 
+This tab of the profile page was designed to give artists like personas Lil Potato and Ivory Williams feedback and analytics on the content they post to soundspace so they can market and grow their profile. We thought having this positioned right above the users uploaded content and within near access to other content in their profile would allow efficient usability for content creators. In addition, the ability toggle between uploaded songs and videos on the top of the page allows creators to further organize and understand engagement towards their content on the app. 
 
 ## Upload 
 

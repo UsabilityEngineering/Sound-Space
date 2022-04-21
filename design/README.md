@@ -1,7 +1,5 @@
 # Interaction Design
 
-## Stream 
-
 Based on our data collected from our research, we established three main insights to structure our wireframe design. We focused our design efforts on incorporating design features that 
 
 * Accommodate passive use 
@@ -28,8 +26,9 @@ Our survey results found that music video consumers rarely leave comments on vid
 
 Additionally Interviewee responses from our contextual inquiry, noted the use of social media and visual media to market and promote music and designing soundspace for the perspective of a content creator was considered 
 
-
 To begin, the page serving as the central focus to our app is shown below and always appears when a user first logs into their account.
+
+## Stream 
 
 <img src="../design/artboards/Stream Page Idea 1.png" width="400">
 

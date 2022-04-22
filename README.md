@@ -63,7 +63,9 @@ Based on these insights, wireframes completed for this deliverable included incl
         * **Mentions** subsection notifies users when someone uses their profile or content in another post.
         * **Message** subsection allows user to send new messages and track old ones.  
 * **Discover**
+    * This page focuses on the user being able to filter new content that has been uploaded to Soundspace. One of the main ways a user could filter their content is based on the genre of the music.
 * **Upload**
+    * Finally, this page allows the user to upload music or upload musical content linked to a song of their choice.
 
 We also recieved some feedback from our prototype during one of our in-class labs. We recieved feedback based on [Nielson's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). We recieved generally good feedback from those who evaluated our prototype with some of the following notes:
 - Our weakest heuristic was "Help and Documentation" because there was no way for a user to get help if they got confused.

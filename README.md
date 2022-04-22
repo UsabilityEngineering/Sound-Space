@@ -51,19 +51,19 @@ In this phase of the project, we started designing what we would belive would be
 - One can see the artboards we created [here](./design/SoundSpace%20Wireframes%20.pdf) or in a link in our [User centered design artifacts](https://github.com/UsabilityEngineering/Sound-Space#user-centered-design-artifacts) section.
 - One can also see the simple prototype we create with those artboards [here](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off). or in the [User centered design artifacts](https://github.com/UsabilityEngineering/Sound-Space#user-centered-design-artifacts) section.
 
-Based on our data collected from our research, we established three main insights to structure our wireframe design. We focused our design efforts on incorporating design features that accommodate passive use, promote sharing and discovery between users, and promote engagement among artists and consumers. 
+Based on our data collected from our research, we established three main insights to structure our wireframe design. We focused our design efforts on incorporating design features that **accommodate passive use, promote sharing and discovery between users, and promote engagement among artists and consumers**.
 
 Based on these insights, wireframes completed for this deliverable included included four main pages 
-* Stream 
-    * The primarily page of the app that allows users to stream, search for and interact with content. 
-* Profile 
-    * The page containing all information regarding the users profile with subsections Uploads, Liked, Mentions, and Messages 
-        * Uploads subsection allows users to view their uploaded content and their engagement analytics simultaneously
-        * Liked subsection reflects all user liked content, including created playlists 
-        * Mentions subsection notifies users when someone uses their profile or content in another post.
-        * Message subsection allows user to send new messages and track old ones.  
-* Discover 
-* Upload
+* **Stream**
+    * The primarily page of the app that allows users to **stream, search for and interact with content.** 
+* **Profile**
+    * The page containing all information regarding the users profile with subsections **Uploads, Liked, Mentions, and Messages**.
+        * **Uploads** subsection allows users to view their uploaded content and their engagement analytics simultaneously
+        * **Liked** subsection reflects all user liked content, including created playlists 
+        * **Mentions** subsection notifies users when someone uses their profile or content in another post.
+        * **Message** subsection allows user to send new messages and track old ones.  
+* **Discover**
+* **Upload**
 
 We also recieved some feedback from our prototype during one of our in-class labs. We recieved feedback based on [Nielson's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). We recieved generally good feedback from those who evaluated our prototype with some of the following notes:
 - Our weakest heuristic was "Help and Documentation" because there was no way for a user to get help if they got confused.

@@ -129,5 +129,5 @@ We expect [personas](../requirements/personas-and-scenarios2.pdf) like Steven Wi
 
 # Supplementary materials
 
-* [Wireframes](./design/SoundSpace_Wireframes.pdf)
+* [Wireframes](./design/SoundSpace%20Wireframes%20.pdf)
 * [Prototype](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off)

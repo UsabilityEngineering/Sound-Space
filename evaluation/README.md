@@ -38,5 +38,17 @@ Again this linked back to our difficulty scale. We feel like this is the area th
 
 ## Task 3
 
+The goal of the third task was to see how well the user could check on the popularity of their own song and if they could navigate the trending page. 
+
+This task was seen as our easiest task in the entire test. This I think makes sense becase the participants had now had the most time with the prototype and the task overall was easy to understand. One participant, p04, had some great feedback that they did not understand at first why there were two titles on the trending page. One of us started to explain but then they understood by themselves that one was the title of the music video and the other was the title of the song. They suggested that we add a music note to the title of the song to make that more obvious.
+
+**Difficulty scale 5**
+
+All of our participants rated this task at very easy which was very nice to see. Participant number 2, p02, was particulary happy about how easy this task was. They realized after one of us explaining the task to them that all they had to do was click on the trending page. They stated, "this sounds presumptuous, but my song might be on the trending page." Though if the participant did not see their song on the trending page then they could also get the stats from the account page which was very easy to get to.
+
+**Confusion scale 4**
+
+We had mostly all 4s with one 3 and one 5. The one middiling rating stated that they gave a 3 because they were confused about the tabs on the account page. Because of how the tabs were spaced, they though that the video they approved would show up under the "videos" button on their account when in reality that tab would show which videos the user has uploaded. In the future we will have to make the idea that those are tabs and not columns more visible.
+
 ## Wrap Up
 

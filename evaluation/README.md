@@ -52,3 +52,36 @@ We had mostly all 4s with one 3 and one 5. The one middiling rating stated that 
 
 ## Wrap Up
 
+Finally we had the wrap up portion of our usability test. We will showcase each of the questions in a list as well as their general answers from the usability test.
+
+#### What did you **dislike** most about SoundSpace?
+- There's too much work to approve content
+- The info on the account page could be orginized better
+- There was a lack of clarity on some of the tabs and trending page
+- Approval system is confusing
+
+#### What did you **like** most about SoundSpace?
+- The trending tab is cool
+- Aesthetics and color pallette are nice to look at
+- Design in clean and it is easy to locate things
+- They liked the idea of uploading fan-made contnet and being able to show off your creativity
+
+#### What are some **additional features** that you would like to see in SoundSpace?
+- A friends feature
+- A way to sort the trending page, either by genre or using a filter
+- Have a "verified" check similar to Twitter for artists
+- None, improve what is in the prototype now
+
+#### What are your feelings about the following features:
+- Approval Process:
+  - Confusing, there isn't enough feedback for the user
+  - I like how one can moderate content
+  - Approvals might be cumbersome to bigger creators if they have a lot of approvals to go through, but could be great for smaller creators so that they curate the content connected to theirs.
+- Uploading Content
+  - Pretty easy, just put in info and hit submit
+  - It was cool and pretty straightforward, but the URLs item on the form is confusing
+
+#### Any other **thoughts or comments** that you would like to share with us?
+- In general, cool idea for a place with both music and music videos
+- I liked the trending tab
+- I think there shoul also be a way to edit your profile or delete uploaded content.

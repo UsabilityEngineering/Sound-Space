@@ -79,9 +79,33 @@ We also recieved some feedback from our prototype during one of our in-class lab
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Background 
+    - Participants in this usability test consume music **very frequently** and are representative of our target user base **homologously** 
+    - Participants typically consume music videos on **Youtube**
+* Task 1 
+    - Login and accessing account 
+        - **5 out of 5** users successful 
+        - Task completed with relative efficiency but issues regarding our prototype's **fidelity** resulted in some confusion. 
+    - Upload a song 
+        - **4 out of 5** users successful
+        - Task failure resulted from confusion between **Account** and **Upload** tabs 
+    - On average, users ranked **4 out of 5** when assessing **difficulty** of this task (1 is “very difficult)
+    - On average, users ranked **4 out of 5** when assessing **confusion** of this task (1 is “very confusing”) 
+* Task 2 
+    - Check and approve content uploaded to users song 
+        - **3 out of 5** users succesful 
+        - **Significant inefficiencies** and and confusion observed in regards to the **approval process** but successful interactions on the account page
+    - On average, users ranked **3.4 out of 5** when assessing **difficulty** of this task 
+    - On average, users ranked **3 out of 5** when assessing **confusion** of this task
+* Task 3 
+    - Check and find engagement statistics on your song just uploaded 
+       - **5 out of 5** users successful
+       - Users often clicked on **music** and **account** pages before the trending page. 
+    - All user’s ranked **5 out of 5** when assessing the **difficulty** of this task. 
+    - On average, users ranked **4 out of 5** when assessing **confusion** of this task
+* Wrap-Up 
+    - Users commonly **disliked** the approval process and found it to be confusing 
+
+
 
 [Full phase 3 report](evaluation/)

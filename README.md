@@ -110,4 +110,3 @@ We also recieved some feedback from our prototype during one of our in-class lab
     - Users commonly **disliked** the approval process and found it to be confusing 
 
 [Full phase 3 report](evaluation/)
-

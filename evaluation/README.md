@@ -87,5 +87,5 @@ Finally, we had the wrap-up portion of our usability test. We will showcase each
 - I think there should also be a way to edit your profile or delete uploaded content.
 
 # Supplementary Materials 
-- Protocol 
-- Prototype 
+- [Protocol](SoundSpace%20Usability%20Test%20Protocol.pdf) 
+- [Phase 3 Prototype](https://xd.adobe.com/view/3aa6a2bd-74d6-4029-89f2-8a7c3c1ed1ec-6ff5/?fullscreen) 

@@ -86,6 +86,12 @@ Finally, we had the wrap-up portion of our usability test. We will showcase each
 - I liked the trending tab
 - I think there should also be a way to edit your profile or delete uploaded content.
 
+## Summary of findings
+
+We found in this usability test that our application has some growing to do before it's able to be released. One aspect of our project that could be revised is the approval system. We received mixed reviews on how to use the approval system and learned of some future problems that we could run into. Because of this we believe adding a help screen on approvals could be beneficial and implementing more information on the profile page would decrease a lot of the confusion brought about by the approval system. 
+
+Another characteristic that we learned from this usability test is that users are interested in music videos more than they let on in the requirements gathering step. We believed that our user base would be fairly small, but each of the users that we received data from informed us that they are interested in music videos. This could have been a fluke so more research is needed.
+
 # Supplementary Materials 
 - [Protocol](SoundSpace%20Usability%20Test%20Protocol.pdf) 
 - [Informed Consent Form](Soundspace%20Informed%20Consent.docx.pdf)

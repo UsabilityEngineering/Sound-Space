@@ -9,15 +9,18 @@ Sound Space is about breaking the barrier between a music streaming service and 
 - **[Christian Hodges](https://usabilityengineering.github.io/ux-portfolio-chodges7/)** 
     - Phase 1: Collaborated on the majority of the report, but wrote the findings on Survey
     - Phase 2: Edited and suggested improvements on the Artboards as well as programmed the prototypes in Adobe XD.
+    - Phase 3: Wrote the majority of the phase 3 main report.
 - **[Sufiyan Syed](https://usabilityengineering.github.io/ux-portfolio-SufiyanSyedCSUC/)** 
     - Phase 1: Collaborated on the majority of the report, but wrote the findings for the Contexual Enquiery and Studying Documentation method.
     - Phase 2: Created the majority of the designs for the artboards in Adobe XD. 
+    - Phase 3: Wrote the majority of the phase 3 executive summary.
 
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](./requirements/personas-and-scenarios2.pdf)
 * [Wireframes](./design/SoundSpace%20Wireframes%20.pdf)
-* [Prototype](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen&hints=off)
+* [Phase 2 Prototype](https://xd.adobe.com/view/3312afb3-c8a2-4068-8f52-79965d5bff20-6641/?fullscreen)
+* [Phase 3 Prototype](https://xd.adobe.com/view/3aa6a2bd-74d6-4029-89f2-8a7c3c1ed1ec-6ff5/?fullscreen)
 
 # Phase 1: Requirements Gathering
 
@@ -106,6 +109,5 @@ We also recieved some feedback from our prototype during one of our in-class lab
 * Wrap-Up 
     - Users commonly **disliked** the approval process and found it to be confusing 
 
-
-
 [Full phase 3 report](evaluation/)
+
